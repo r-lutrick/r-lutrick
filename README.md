@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything related to Web3!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/r-lutrick](https://github.com/r-lutrick)
+- 👨‍💻 All of my projects are available at [here](https://github.com/r-lutrick?tab=repository)
 
 - 💬 Ask me about **react, flask and algorithms.**
 
