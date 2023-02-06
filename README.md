@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Lutrick</h1>
 <h3 align="center">An ardent full-stack developer from The United States</h3>
 
-- 🌱 I’m currently learning **C# & Solidity**
+- 🌱 I’m currently learning **Java & Spring**
 
 - 👯 I’m looking to collaborate on **anything related to Web3!**
 
