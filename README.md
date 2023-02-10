@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert Lutrick</h1>
 <h3 align="center">An ardent Full-stack DevOps Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-lutrick&label=Profile%20views&color=0e75b6&style=flat" alt="r-lutrick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-lutrick" alt="r-lutrick" /></a> </p>
 
