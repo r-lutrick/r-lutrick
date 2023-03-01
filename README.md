@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **r.lutrick@icloud.com**
 
-- 📄 Download my <a href="https://docs.google.com/document/d/1x0ngbBClBAd9IHtq7tCeKzJrIi_B0Q7aLvOtjItW3qQ/export?usp=sharing" target="_blank" rel="noreferrer"> **Resume here** </a>
+- 📄 Download my <a href="https://docs.google.com/document/d/1x0ngbBClBAd9IHtq7tCeKzJrIi_B0Q7aLvOtjItW3qQ/export?format=pdf" target="_blank" rel="noreferrer"> **Resume here** </a>
 
 - ⚡ Fun fact **The Giant Panda’s Scientific Name Is Ailuropoda Melanoleuca, Which Means “Black And White Cat-Foot”**
 ---
