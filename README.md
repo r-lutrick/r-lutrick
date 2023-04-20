@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot and Selenium**
 
-- 🤝 I’m looking to collaborate on **Projects**
+- 🤝 I’m looking to collaborate on **Projects and Web3 Dapps**
 
 - 💬 Ask me about **Agile Methodology, Algorithms, Data Structures and DevOps**
 
